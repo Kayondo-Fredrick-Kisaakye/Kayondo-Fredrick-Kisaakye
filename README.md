@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Kayondo Fredrick Kisaakye 👋
 
-<!--
-**Kayondo-Fredrick-Kisaakye/Kayondo-Fredrick-Kisaakye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 IT Undergraduate & Software Developer based in Uganda.
+* 🛠️ Passionate about backend systems, database architecture, and building practical applications.
+* ⚡ Core Tech Stack: Python, C, C++, PHP, MySQL, and PostgreSQL.
+* 📂 Managing repositories and projects via [PixelCode-Ug](https://github.com/PixelCode-Ug).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, PHP, C, C++, HTML, CSS
+* **Databases:** PostgreSQL, MySQL
+* **Tools:** Visual Studio Code, Git, GitHub
+
+---
+
+### 📊 GitHub Stats
+![Kayondo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayondo-Fredrick-Kisaakye&show_icons=true&theme=radical)
