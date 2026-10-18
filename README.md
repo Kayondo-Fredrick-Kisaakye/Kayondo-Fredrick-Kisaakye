@@ -11,7 +11,7 @@
 
 * **Languages:**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,php,c,cpp,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,html,css" alt="Languages" />
 </p>
 
 * **Databases:**
