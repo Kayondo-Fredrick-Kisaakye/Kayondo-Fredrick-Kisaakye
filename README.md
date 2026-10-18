@@ -9,20 +9,20 @@
 
 ### 🛠️ Tech Stack & Tools
 
+* **Languages:**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,html,css,postgres,mysql,vscode,git,github" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,php,c,cpp,html,css" alt="Languages" />
 </p>
 
+* **Databases:**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+</p>
 
-* **Databases:** 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-
-* **Tools & Environment:** 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-
+* **Tools & Environment:**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" />
+</p>
 
 ---
 
