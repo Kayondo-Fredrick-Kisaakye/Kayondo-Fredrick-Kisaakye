@@ -2,7 +2,7 @@
 
 * 💻 IT Undergraduate & Software Developer based in Uganda.
 * 🛠️ Passionate about backend systems, database architecture, and building practical applications.
-* ⚡ Core Tech Stack: Python, C, C++, PHP, MySQL, and PostgreSQL.
+* ⚡ Core Tech Stack: HTML, CSS, Python, MySQL, and PostgreSQL.
 * 📂 Managing repositories and projects via [PixelCode-Ug](https://github.com/PixelCode-Ug).
 
 ---
